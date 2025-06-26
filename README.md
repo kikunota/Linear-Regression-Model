@@ -1,4 +1,5 @@
 **Implemented Linear-Regression-Model from Machine Learning Course.**
+
 I've implemented Computing Cost, Gradient Descent algorithm.
 Run the ex1 using the latest Octave or Matlab and you can run the linear regression model.
 
